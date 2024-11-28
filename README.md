@@ -1,6 +1,6 @@
-# kovai
+# kovai.co
   Power BI is a Business Intelligence tool which can be used for creating interactive dashboards using the data.  Data can be imported or exported from the PowerBI. 
-Forecasting can also be done using Power BI.
+Forecasting can also be done using Power BI exponential smoothening algorithm.
 Forecasting in Power BI will help us to predict the future based on our current information. Forecast in Power BI can be done by following some simple steps.
 
 Requirements to forecast data in Power BI
